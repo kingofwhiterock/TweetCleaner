@@ -11,9 +11,9 @@ You need to get Twitter data and the following keys before using the app.
 
 * Access token & access token secret
 
-    * `consumer_key`  (Access token)
+    * `access_token_key`  (Access token)
 
-    * `consumer_key`  (Access token secret)
+    * `access_token_secret`  (Access token secret)
 
 ## Usage
 
